@@ -1,4 +1,4 @@
-  body {
+body {
     margin: 0;
     font-family: Arial, sans-serif;
 }
@@ -33,7 +33,7 @@
      padding: 10px;
 }
 .hero {
-    background-image: url("file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/mah.html/Screenshot_٢٠٢٦٠٤٢٧-١٣٣٠٤٣_Facebook.jpg");
+    background-image: url("Screenshot_٢٠٢٦٠٤٢٧-١٣٣٠٤٣_Facebook.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -266,7 +266,7 @@ section {
 
 .careers {
     padding: 60px 20px;
-    background-color: #f9f9f9; /* لون خلفية هادئ */
+    background-color: #f9f9f9; 
     text-align: center;
     font-family: Arial, sans-serif;
 }
@@ -287,7 +287,7 @@ section {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px; /* مسافة بين البطاقات */
+    gap: 20px; 
     max-width: 1200px;
     margin: 0 auto;
 }
@@ -636,7 +636,7 @@ section {
 .menu-page-wrapper .menu-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 30px 60px; /* مسافة بين الأعمدة */
+    gap: 30px 60px; 
 }
 
 
